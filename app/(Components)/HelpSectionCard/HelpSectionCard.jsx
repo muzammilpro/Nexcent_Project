@@ -5,7 +5,7 @@ export default function HelpSectionCard() {
   return (
     <div>
       <div>
-        <Image/>
+        <Image />
       </div>
       <div>
         <p className='Heading'>2,245,341</p>
