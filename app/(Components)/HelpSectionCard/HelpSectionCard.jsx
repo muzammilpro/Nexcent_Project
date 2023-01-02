@@ -1,11 +1,11 @@
 import React from 'react'
 import Image from 'next/image'
 
-export default function HelpSectionCard() {
+export default function HelpSectionCard(props) {
   return (
     <div>
       <div>
-        <Image />
+        <Image src={prop.src} />
       </div>
       <div>
         <p className='Heading'>2,245,341</p>
