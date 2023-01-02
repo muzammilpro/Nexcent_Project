@@ -5,7 +5,7 @@ export default function HelpSectionCard(props) {
   return (
     <div>
       <div>
-        <Image src={prop.src} />
+        <Image src={props.src} />
       </div>
       <div>
         <p className='Heading'>2,245,341</p>
