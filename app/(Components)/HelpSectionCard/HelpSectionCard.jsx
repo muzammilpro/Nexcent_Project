@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function HelpSectionCard(props) {
   return (
-    <div>
+    <div className='HelpCardParent'>
       <div>
         <Image src={props.src} />
       </div>
