@@ -1,3 +1,6 @@
 .HelpCardParent{
     display: flex;
 }
+.helpCardImage{
+    width: 8%;
+}
