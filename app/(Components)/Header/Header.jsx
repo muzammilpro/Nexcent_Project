@@ -5,8 +5,11 @@ export default function Header() {
         <div>
             <div>
                 <p>Lessons and insight</p>
+                <p></p>
             </div>
-            <div></div>
+            <div>
+
+            </div>
         </div>
     )
 }
