@@ -5,7 +5,7 @@ export default function Header() {
         <div>
             <div>
                 <p>Lessons and insight</p>
-                <p></p>
+                <p>From 8 Years</p>
             </div>
             <div>
 
