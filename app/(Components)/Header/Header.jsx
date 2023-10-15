@@ -6,6 +6,7 @@ export default function Header() {
             <div>
                 <p>Lessons and insight</p>
                 <p>From 8 Years</p>
+                <p></p>
             </div>
             <div>
 
