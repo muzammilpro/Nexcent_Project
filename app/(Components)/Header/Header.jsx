@@ -7,7 +7,7 @@ export default function Header() {
                 <p>Lessons and insight</p>
                 <p>From 8 Years</p>
                 <p>
-                    where to grow your bussiness as a photographer 
+                    where to grow your bussiness as a photographer: Siter or Social media
                 </p>
             </div>
             <div>
