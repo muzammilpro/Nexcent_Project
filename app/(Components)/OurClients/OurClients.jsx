@@ -10,17 +10,17 @@ import img5 from '../../../public/Assets/ourClientImg05.jpg'
 export default function OurClients() {
   return (
     <div>
-        <center>
-            <p className='Heading'>Our Clients</p> <br />
-            <p>we have been working with some Fortune 500+ clients</p>
-        </center>
-        <div className='imageSection'>
-            <Image src={img1} className='img1' alt=""/>
-            <Image src={img2}className='img2'/>
-            <Image src={img3} className='img3'/>
-            <Image src={img4} className='img4'/>
-            <Image src={img5} className='img5'/>
-        </div>
+      <center>
+        <p className='Heading'>Our Clients</p> <br />
+        <p>we have been working with some Fortune 500+ clients</p>
+      </center>
+      <div className='imageSection'>
+        <Image src={img1} className='img1' alt="Image" />
+        <Image src={img2} className='img2' alt="Image" />
+        <Image src={img3} className='img3' alt="Image" />
+        <Image src={img4} className='img4' alt="Image" />
+        <Image src={img5} className='img5' alt="Image" />
+      </div>
     </div>
   )
 }
