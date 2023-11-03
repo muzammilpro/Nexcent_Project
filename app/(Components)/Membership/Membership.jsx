@@ -9,7 +9,7 @@ export default function Membership() {
         <p>Who is Nexcent suitable for?</p>
       </center>
       <div>
-        <Card  heading="" />
+        <Card  heading="" text=""/>
       </div>
     </div>
   )
