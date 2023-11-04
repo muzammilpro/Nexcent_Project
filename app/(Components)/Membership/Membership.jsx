@@ -10,6 +10,7 @@ export default function Membership() {
       </center>
       <div>
         <Card  heading="" text=""/>
+        <Card  heading="" text=""/>
       </div>
     </div>
   )
