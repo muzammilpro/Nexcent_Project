@@ -11,6 +11,7 @@ export default function Membership() {
       <div>
         <Card  heading="" text=""/>
         <Card  heading="" text=""/>
+        <Card  heading="" text=""/>
       </div>
     </div>
   )
