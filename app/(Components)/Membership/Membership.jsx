@@ -10,7 +10,7 @@ export default function Membership() {
       </center>
       <div>
         <Card  heading="Membership organisations" text="Our membership management software provides full automation of membership renewalls and payments"/>
-        <Card  heading="" text=""/>
+        <Card  heading="National " text=""/>
         <Card  heading="" text=""/>
       </div>
     </div>
