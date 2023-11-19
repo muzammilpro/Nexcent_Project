@@ -11,7 +11,7 @@ export default function Membership() {
       <div>
         <Card  heading="Membership organisations" text="Our membership management software provides full automation of membership renewalls and payments"/>
         <Card  heading="National Association" text="Our membership management software provides full automation of membership renewalls and payments"/>
-        <Card  heading="Clubs And Groups" text="Our membership"/>
+        <Card  heading="Clubs And Groups" text="Our membership management software provides"/>
       </div>
     </div>
   )
