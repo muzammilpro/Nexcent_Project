@@ -1,3 +1,6 @@
 .Heading{
     size: 250%;
 }
+.cardSection{
+    display: flex;
+}
