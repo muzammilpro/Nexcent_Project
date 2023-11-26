@@ -1,0 +1,6 @@
+.Image{
+    max-width: 50%;
+}
+.Card:hover{
+    background-color: gainsboro;
+}

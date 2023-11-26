@@ -7,8 +7,9 @@ export default function Home() {
   return (
  <>
  <Header/>
- <OurClients/> <br />
+ <OurClients/> 
  <Membership/>
+ <br />
 
  </>
   )
