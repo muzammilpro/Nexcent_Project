@@ -8,6 +8,7 @@ export default function BigCard() {
 
             </div>
             <div>
+                <p></p>
 
             </div>
         </div>
