@@ -9,7 +9,7 @@ export default function BigCard() {
             </div>
             <div>
                 <p>The Unseen of spending three year at Pixelgrade</p>
-
+                <p></p>
             </div>
         </div>
     )
