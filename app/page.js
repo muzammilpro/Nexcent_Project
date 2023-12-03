@@ -12,7 +12,7 @@ export default function Home() {
       <OurClients />
       <Membership />
       <br />
-      <BigCard img={CardImage1} />
+      <BigCard heading="" img={CardImage1} />
 
     </>
   )
