@@ -12,7 +12,7 @@ export default function Home() {
       <OurClients />
       <Membership />
       <br />
-      <BigCard heading="" img={CardImage1} />
+      <BigCard heading="The Unseen of spending three year at Pixelgrade" img={CardImage1} />
 
     </>
   )
