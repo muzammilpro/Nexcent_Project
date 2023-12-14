@@ -6,9 +6,7 @@ export default function HelpSection() {
             <div></div>
             <div>
                 <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
+                
             </div>
         </div>
     )
