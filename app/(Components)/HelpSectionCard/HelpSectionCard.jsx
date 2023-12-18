@@ -5,7 +5,7 @@ export default function HelpSectionCard() {
     <div>
       <div></div>
       <div>
-        <p></p>
+        <p className='heading'></p>
         <p></p>
       </div>
     </div>
