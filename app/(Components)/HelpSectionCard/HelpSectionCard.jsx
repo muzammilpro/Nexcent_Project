@@ -6,7 +6,7 @@ export default function HelpSectionCard() {
       <div></div>
       <div>
         <p className='heading'>2,245,341</p>
-        <p></p>
+        <p>Members</p>
       </div>
     </div>
   )
