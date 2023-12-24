@@ -6,7 +6,7 @@ export default function HelpSection() {
         <div>
             <div></div>
             <div>
-                <HelpSectionCard numbers="2,245,341" text=""/>
+                <HelpSectionCard numbers="2,245,341" text="Membership"/>
             </div>
         </div>
     )
