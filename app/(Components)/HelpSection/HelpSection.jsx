@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import HelpSectionCard from '../HelpSectionCard/HelpSectionCard'
+import peopleImg from '../../../public/Assets/People.jpg'
 
 export default function HelpSection() {
     return (
