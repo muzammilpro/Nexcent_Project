@@ -10,7 +10,7 @@ export default function HelpSection() {
                 <Image src={peopleImg} />
             </div>
             <div>
-                <HelpSectionCard numbers="2,245,341" text="Membership"/>
+                <HelpSectionCard src={peopleImg} numbers="2,245,341" text="Membership"/>
             </div>
         </div>
     )
