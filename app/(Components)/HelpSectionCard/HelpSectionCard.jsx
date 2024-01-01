@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import './HelpSectioCard.css'
+import './HelpSectionCard.css'
 
 export default function HelpSectionCard(props) {
   return (
