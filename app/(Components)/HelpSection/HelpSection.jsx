@@ -5,7 +5,7 @@ import peopleImg from '../../../public/Assets/People.jpg'
 
 export default function HelpSection() {
     return (
-        <div>
+        <div className='HelpSectionParentDiv'>
             <div>
                 <Image src={peopleImg} />
             </div>
