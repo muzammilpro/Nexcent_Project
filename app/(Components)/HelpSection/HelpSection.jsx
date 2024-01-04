@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import './HelpSection.css'
 import HelpSectionCard from '../HelpSectionCard/HelpSectionCard'
 import peopleImg from '../../../public/Assets/People.jpg'
 
