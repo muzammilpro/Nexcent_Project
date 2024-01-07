@@ -9,7 +9,7 @@ export default function HelpSectionCard(props) {
         <Image className='helpCardImage'  src={props.src} />
       </div>
       <div>
-        <p className='Heading'>2,245,341</p>
+        <p className='Heading'>{props.numbers}</p>
         <p>Members</p>
       </div>
     </div>
