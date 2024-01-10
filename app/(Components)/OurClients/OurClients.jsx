@@ -15,7 +15,7 @@ export default function OurClients() {
             <p>we have been working with some Fortune 500+ clients</p>
         </center>
         <div className='imageSection'>
-            <Image src={img1} className='img1'/>
+            <Image src={img1} className='img1' alt=""/>
             <Image src={img2}className='img2'/>
             <Image src={img3} className='img3'/>
             <Image src={img4} className='img4'/>
