@@ -11,7 +11,7 @@ export default function OurClients() {
   return (
     <div>
         <center>
-            <p>Our Clients</p>
+            <p className='Heading'>Our Clients</p> <br />
             <p>we have been working with some Fortune 500+ clients</p>
         </center>
         <div className='imageSection'>
@@ -20,10 +20,7 @@ export default function OurClients() {
             <Image src={img3} className='img3'/>
             <Image src={img4} className='img4'/>
             <Image src={img5} className='img5'/>
-
         </div>
-        <br />
-      
     </div>
   )
 }
