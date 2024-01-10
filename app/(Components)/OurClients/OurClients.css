@@ -1,0 +1,27 @@
+.imageSection{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    width: 12%;
+    height: 8%;
+}
+.img2{
+    width: 12%;
+    height: 8%;
+}
+.img3{
+    padding-top: 3%;
+    width: 5%;
+    height: 8%;
+}
+.img4{
+    padding-top: 3%;
+    width: 12%;
+    height: 8%;
+}
+.img5{
+    padding-top: 2%;
+    width: 8%;
+    height: 8%;
+}

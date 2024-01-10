@@ -1,0 +1,18 @@
+.heading{
+    font-size: 400%;
+    color: aquamarine;
+}
+.Fheading{
+    font-size: 400%;
+}
+.Header{
+    display: flex;
+    background-color: gainsboro;
+
+}
+.leftSide{
+    padding: 8%;
+}
+.rightSide{
+    padding: 8%;
+}
