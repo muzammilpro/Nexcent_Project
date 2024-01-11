@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from '../Card/Card'
+import './Membership.css'
 
 export default function Membership() {
   return (
