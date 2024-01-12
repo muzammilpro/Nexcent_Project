@@ -1,0 +1,13 @@
+.cardImage{
+    max-width: 96%;
+}
+
+.ParentDiv{
+    display: flex;
+}
+.textDiv{
+    padding: 8%;
+}
+.imageDiv{
+    padding: 10%;
+}
